@@ -5,7 +5,7 @@
 ## Personal Information
 Surname(s) / First name(s): John W
 
-Email(s): [youremail(at)domain(dot)com](mailto:youremail@domain.com)
+Email(s): [wu103@mcmaster.ca](mailto:wu103@mcmaster.ca)
 
 Date of birth: Write your date of birth here
 
